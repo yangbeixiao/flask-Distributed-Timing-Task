@@ -1,4 +1,5 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # flask-Distributed-Timing-Task
 该项目仅为实现需求功能学习之用，仅供参考学习，不足之处望见谅
 
