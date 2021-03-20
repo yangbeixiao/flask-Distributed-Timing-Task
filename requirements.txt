@@ -38,7 +38,7 @@ idna==2.8
 incremental==17.5.0
 itsdangerous==1.1.0
 jieba==0.39
-Jinja2==2.10
+Jinja2==2.11.3
 kombu==4.3.0
 lxml==4.3.2
 MarkupSafe==1.1.1
